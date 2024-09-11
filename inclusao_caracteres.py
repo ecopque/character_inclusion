@@ -22,3 +22,6 @@ while indice < len(nome):
     indice += 1
 novo_nome += '*'
 print(novo_nome)
+
+
+# https://linktr.ee/edsoncopque
