@@ -24,4 +24,4 @@ novo_nome += '*'
 print(novo_nome)
 
 
-# https://linktr.ee/edsoncopque
+# Edson Copque | https://linktr.ee/edsoncopque
